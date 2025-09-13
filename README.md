@@ -1,16 +1,51 @@
-## Hi there 👋
+## 안녕하세요 👋
 
-<!--
-**mingmingmon/mingmingmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 **전민주**입니다.
+**백엔드 개발과 인프라**에 관심을 두고 다양한 프로젝트를 수행하며 경험을 쌓고 있습니다. <br>
+현재는 이러한 경험을 토대로 **전문적인 백엔드 개발자**로 성장하기 위해 노력하고 있습니다
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 기술 스택
+- **언어**: Java, Python, C
+- **프레임워크 및 도구**: Spring Boot, Docker, GitHub Actions, Cloud  
+- **데이터베이스**: MySQL, PostgreSQL, Redis
+---
+
+### 📌 프로젝트
+
+| 프로젝트 | 설명 | 사용 기술 |
+|----------|------|-----------|
+| **WaggleNet** | LoRa–MQTT 기반 스마트 양봉 모니터링 시스템 | ESP32, LoRa, MQTT, Arduino |
+| **C-Lab CoreTeam** | 동아리 운영에 필요한 웹 서비스 | Spring Boot, JPA, Docker |
+| **뭐하고 no car** | 대중교통 기반 지역 축제 여행 어플리케이션 | Spring Boot, Java, JPA, DDD | 
+| **CHECKMATE** | 기숙사 룸메이트 매칭 어플리케이션 | Spring Boot, Java, Socket | 
+| **Clip Story** | 영화 추천 웹 서비스 | Spring Boot, Java, React | 
+---
+
+### ✈️ 해외 경험
+
+| 기간 | 국가 | 내용 |
+|------|-------------|------|
+| 2024.03.01 ~ 2024.03.08 | 스페인 바르셀로나 | 2025 MWC 참관 |
+| 2024.06.24 ~ 2024.08.09 | 미국 웨스트 라피엣 | 퍼듀대학교 internationsal scholoar 프로젝트 참여 |
+
+### 🏆 수상 경력 (팀)
+
+| 연도 | 결과 | 내용 | 주관 |
+|------|-------------|------|------|
+| 2025 | 은상 | 다회용기 사용 촉진을 위한 어플리케이션 | 심화캡스톤  |
+| 2024 | 대상 | 스마트폰 액정 불량 판단 공정 디지털 전환 | K-Softvation Showcase  |
+| 2024 | 최우수상 | 생성형 AI를 활용한 금융/경제 교육 서비스 | 한국컴퓨터교육학회
+| 2024 | 금상 | 정보취약계층을 위한 음성인식 태블릿 메뉴판 | 기초캡스톤
+
+### 🏆 수상 경력 (개인)
+
+| 연도 | 결과 | 내용 | 주관 |
+|------|-------------|------|------|
+| 2024 | 특별상 | 제 21회 TOPCIT 성적 우수자 | 정보통신기획평가원(IITP)  |
+| 2024 | 전국수석 | 2024년도 제1회 CSTS 자격시험 | 한국정보통신기술협회(TTA)  |
+| 2024 | 최우수상 | 생성형 AI를 활용한 금융/경제 교육 서비스 | 한국컴퓨터교육학회
+| 2024 | 자랑스러운경기인상 | 개교 77주년 기념 올해 학교를 빛낸 학생 선정 | 경기대학교
+
+---
